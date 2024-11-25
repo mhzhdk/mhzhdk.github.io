@@ -4,7 +4,7 @@
    * Background color styling
    * padding and margin
 */
-
+let a;
 .container {
   max-width: var(--width-medium);
   margin: 0 auto;
