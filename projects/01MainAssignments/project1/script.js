@@ -6,7 +6,7 @@ let back = false;
 let r = 250;
 
 function preload()
-{font = loadFont("ReclaimGloryFreeTrial-BW1P8.otf")}
+{font = loadFont("font/ReclaimGloryFreeTrial-BW1P8.otf")}
 
 function setup() {
 	createCanvas(windowWidth, windowHeight);

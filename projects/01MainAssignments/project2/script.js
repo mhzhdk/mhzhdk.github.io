@@ -15,8 +15,8 @@ let circelo = {
 	d: 100 }
 
 function preload(){
-	img = loadImage("clipart1877598.png") // downloaded png from the internet
-	font = loadFont("Nunito-VariableFont_wght.otf")}
+	img = loadImage("img/clipart1877598.png") // downloaded png from the internet
+	font = loadFont("font/Nunito-VariableFont_wght.otf")}
 
 function setup() {
 	createCanvas(windowWidth, windowHeight);
